@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "completed": false,
+      "text": "Create A Todo App",
+      "id": 1
+    },
+    {
+      "completed": false,
+      "text": "Drink Water",
+      "id": 2
+    },
+    {
+      "completed": true,
+      "text": "Keep Coding!",
+      "id": 3
+    },
+    {
+      "completed": false,
+      "text": "Example Todo",
+      "id": 4
+    }
+  ]
+}
