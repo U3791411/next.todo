@@ -1,3 +1,13 @@
-export default function App() {
-  return (<h1 className="display-1 text-center mt-3">Todo WebApp</h1>);
+import Header from './components/header';
+import { TodoList } from './components/todoList';
+import CreateTodo from './components/createTodo';
+
+export default function Home() {
+  return (
+    <div className="mt-5 pt-4">
+      <Header />
+      <TodoList />
+      <CreateTodo />
+    </div>
+  );
 }

@@ -1,12 +1,12 @@
 {
   "todos": [
     {
-      "completed": false,
+      "completed": true,
       "text": "Create A Todo App",
       "id": 1
     },
     {
-      "completed": false,
+      "completed": true,
       "text": "Drink Water",
       "id": 2
     },
@@ -16,9 +16,24 @@
       "id": 3
     },
     {
-      "completed": false,
+      "completed": true,
       "text": "Example Todo",
       "id": 4
+    },
+    {
+      "completed": false,
+      "text": "Lorem dfjdf dsifdk djvdfknbj dfbodsnb jdfankdsbn",
+      "id": 5
+    },
+    {
+      "completed": false,
+      "text": "sdifdgjdfgjldf",
+      "id": 6
+    },
+    {
+      "completed": false,
+      "text": "17082023 ;)",
+      "id": 7
     }
   ]
 }
